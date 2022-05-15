@@ -1,6 +1,6 @@
 # map_cutout
 
-Map cutout iost ein kleines Tool, welches dazu dient einen Bereich in Google Earth für das Map Modding zu markieren.  
+Map cutout ist ein kleines Tool, welches dazu dient einen Bereich in Google Earth für das Map Modding zu markieren.  
 Angegeben wird das Zentrum des Ausschnitts in Grad, Minuten, Sekunden und die gewünschte Kantenlänge in km.
 
 Das Tool erzeugt daraus eine map_cutout.kml Datei auf dem Desktop.
