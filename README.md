@@ -10,5 +10,7 @@ In der KML steht ebenfalls unter `corner_tl` die linke obere Ecke und unter `cor
 
 !!! Achtung der Ausschnitt ist aktuell nicht auf den Meter genau. Ich feile noch an den Paramtern. !!!
 
+Die exe findet ihr unter dist.
+
 ## Falls du mich und meine Arbeit unterstützen möchtest > [Spende](https://www.paypal.com/donate/?hosted_button_id=ZR4EGNDAVD4Q4)  
 ## If you want to donate my work > [Donate](https://www.paypal.com/donate/?hosted_button_id=ZR4EGNDAVD4Q4)
