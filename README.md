@@ -1,11 +1,11 @@
 # map_cutout
 
-Map cutout iost ein kleines Tool, welches dazu dient einen Bereich in Google Earth für das Map Modding zu markieren.
+Map cutout iost ein kleines Tool, welches dazu dient einen Bereich in Google Earth für das Map Modding zu markieren.  
 Angegeben wird das Zentrum des Ausschnitts in Grad, Minuten, Sekunden und die gewünschte Kantenlänge in km.
 
 Das Tool erzeugt daraus eine map_cutout.kml Datei auf dem Desktop.
 
-Diese kann dann in Google Earth importiert werden.
+Diese kann dann in Google Earth importiert werden.  
 In der KML steht ebenfalls unter `corner_tl` die linke obere Ecke und unter `corner_br` die rechte untere Ecke das Ausschnitts in Grad, Minuten, Sekunden. Dafür muss die Datei mit einem Editor (notepad++, vs code, etc.) geöffnet werden.
 
 !!! Achtung der Ausschnitt ist aktuell nicht auf den Meter genau. Ich feile noch an den Paramtern. !!!
